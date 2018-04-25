@@ -28,10 +28,11 @@ body {
   background-color: #4f89cb;
   color: #FFFFFF;
   text-align: center;
-  font-size: 1.25vw;
+  font-size: calc(23px + .2vw);
   padding-top: 10px ;
-  padding-bottom: 10px ;
+  padding-bottom: 20px ;
   width: 19.8%;
+  min-width: 206.3px;
   transition: all 0.5s;
   cursor: pointer;
   float: left;
